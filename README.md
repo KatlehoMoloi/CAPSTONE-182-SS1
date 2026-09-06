@@ -7,4 +7,14 @@ Even though there is a clear fall in trial to paid conversion rate while the cos
 # RAAID LOG
 |RAAIDD|Description|
 |------|--------------------|
-|Risk  | hmmm lets see if it will look like a table|
+|Risk  |A high risk of not requesting the right information in my coloumns on the data request and only realising in the final phase of completing the project|
+|Risk  |The inforation from households could be considered personal information and make StadioChoice not willing to provide the full data to that extent.|
+|Risk  |There is only 33% of trial users who convert which might risk my model to only lean to predict a result as "no conversion" most of the time while still seeming to perform well.|
+|Action|I need to have a well thought data request table to submit to StadioChoice to ensure I am not missing any important information and they also know which fields will need to be filled in on their side|
+|Action|Make sure I understand the working on my GitHub platform in a well structure set up now so that it is ready once I receive the data.|
+|Action|
+|Assumption|Assuming StadioChoice is able to link the viewing of the data and billing for households because my data request is depenet on this.|
+|Assumption|Assuming that viewing the behaviour during the trial period is what influences whether customers convert or not, rather than having a focus on conversion being mainly influenced by pricing and competitors actions.|
+|Assumption|Using classification is the most fitting approach to the problem instead of prediccitng the time to converting.|
+|Issue| I have not faced any issued yet, only took time in understanding the GitHub platform which I will be working on.|
+|Decision|
