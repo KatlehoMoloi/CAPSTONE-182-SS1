@@ -5,4 +5,6 @@ StadioChoice is an a challenging transitional phase where they are experiencing 
 # Problem Statement
 Even though there is a clear fall in trial to paid conversion rate while the cost per streaming subscriber aquired is rising, there is still uncertainty on whther the trial period customer behaviour can be a determinng factor whether trial subscribers are likely to convert to paying customers. Therefore, the aim in my report is to determine whether classification techniqures are reliable enough to accurately predicit trial to paid conversion using the STADIOChoice steaming viewing logs and the subcription and the customer billing information. Using this as evidence will assist in having proactive interventions during the trial period. 
 # RAAID LOG
-
+|RAAIDD|Description|
+|------|--------------------|
+|Risk  | hmmm lets see if it will look like a table|
