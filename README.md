@@ -17,4 +17,6 @@ Even though there is a clear fall in trial to paid conversion rate while the cos
 |Assumption|Assuming that viewing the behaviour during the trial period is what influences whether customers convert or not, rather than having a focus on conversion being mainly influenced by pricing and competitors actions.|
 |Assumption|Using classification is the most fitting approach to the problem instead of prediccitng the time to converting.|
 |Issue| I have not faced any issued yet, only took time in understanding the GitHub platform which I will be working on.|
-|Decision|
+|Decision|I have decided to use the trial to paid conversion instead of the Churn because it has was more direct in data available and the best fitting to a rentention strategy StadioChoice would want.|
+|Dependency|I wont be able to finalise the data request until I have a clear problem statement since the request will need to match my goal of the project to predict.|
+|Dependendcy|Compiling a reliable model is dependent on StadioChoice providing the correct data I have requested.|
