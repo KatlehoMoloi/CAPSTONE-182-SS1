@@ -10,13 +10,17 @@ Even though there is a clear fall in trial to paid conversion rate while the cos
 |Risk  |A high risk of not requesting the right information in my columns on the data request and only realising in the final phase of completing the project|
 |Risk  |The information from households could be considered personal information and make StadioChoice not willing to provide the full data to that extent.|
 |Risk  |There is only 33% of trial users who convert which might risk my model to only lean to predict a result as "no conversion" most of the time while still seeming to perform well.|
+|Risk  |If my planning phase takes too long, there might be time pressures in being able to model and validating.|
 |Action|I need to have a well thought data request table to submit to StadioChoice to ensure I am not missing any important information and they also know which fields will need to be filled in on their side|
 |Action|Make sure I understand the working on my GitHub platform in a well structure set up now so that it is ready once I receive the data.|
-|Action|
+|Action|Proofread and better my motivation and problem statement against the objective of the project.|
 |Assumption|Assuming StadioChoice is able to link the viewing of the data and billing for households because my data request is depenet on this.|
 |Assumption|Assuming that viewing the behaviour during the trial period is what influences whether customers convert or not, rather than having a focus on conversion being mainly influenced by pricing and competitors actions.|
 |Assumption|Using classification is the most fitting approach to the problem instead of predicting the time to converting.|
+|Assumption|Assuming StadioChoice to be sending the raw data in the standard required format and in a reasonable time frame.|
 |Issue| I have not faced any issued yet, only took time in understanding the GitHub platform which I will be working on.|
 |Decision|I have decided to use the trial to paid conversion instead of the Churn because it has was more direct in data available and the best fitting to a rentention strategy StadioChoice would want.|
 |Dependency|I wont be able to finalise the data request until I have a clear problem statement since the request will need to match my goal of the project to predict.|
 |Dependency|Compiling a reliable model is dependent on StadioChoice providing the correct data I have requested.|
+|Dependency|My RAAIDD log being complete was relaint on my motivation and problem statement being done and clear.|
+|Dependency|Having a final report for the project will be dependent on a model being built and evelatated first since it will be based on results.|
