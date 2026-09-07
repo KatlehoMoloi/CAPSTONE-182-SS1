@@ -14,6 +14,7 @@ Even though there is a clear fall in trial to paid conversion rate while the cos
 |Action|I need to have a well thought data request table to submit to StadioChoice to ensure I am not missing any important information and they also know which fields will need to be filled in on their side|
 |Action|Make sure I understand the working on my GitHub platform in a well structure set up now so that it is ready once I receive the data.|
 |Action|Proofread and better my motivation and problem statement against the objective of the project.|
+|Action|Have my READMEcontent backed uo and saved on my laptop separately, to ensure I have access to the work offline.|
 |Assumption|Assuming StadioChoice is able to link the viewing of the data and billing for households because my data request is depenet on this.|
 |Assumption|Assuming that viewing the behaviour during the trial period is what influences whether customers convert or not, rather than having a focus on conversion being mainly influenced by pricing and competitors actions.|
 |Assumption|Using classification is the most fitting approach to the problem instead of predicting the time to converting.|
