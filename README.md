@@ -29,4 +29,5 @@ Even though there is a clear fall in trial to paid conversion rate while the cos
 
 # ss2 PART B - Modelling
 
-- [Preprocessing](./Prepocessing.MD)
+- [Preprocessing](./Preprocessing.MD)
+- [Feature Engineering](./FeatureEngineering.MD)
