@@ -25,3 +25,8 @@ Even though there is a clear fall in trial to paid conversion rate while the cos
 |Dependency|Compiling a reliable model is dependent on StadioChoice providing the correct data I have requested.|
 |Dependency|My RAAIDD log being complete was reliant on my motivation and problem statement being done and clear.|
 |Dependency|Having a final report for the project will be dependent on a model being built and evelatated first since it will be based on results.|
+
+
+# ss2 PART B - Modelling
+
+- [Preprocessing](./Prepocessing.MD)
