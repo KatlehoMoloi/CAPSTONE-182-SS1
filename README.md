@@ -32,3 +32,4 @@ Even though there is a clear fall in trial to paid conversion rate while the cos
 - [Preprocessing](./Preprocessing.MD)
 - [Feature Engineering](./FeatureEngineering.MD)
 - [Model 1](./Model1.MD)
+- [Model 2](./Model2.MD)
