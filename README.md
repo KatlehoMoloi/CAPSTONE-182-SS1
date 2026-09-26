@@ -33,3 +33,6 @@ Even though there is a clear fall in trial to paid conversion rate while the cos
 - [Feature Engineering](./FeatureEngineering.MD)
 - [Model 1](./Model1.MD)
 - [Model 2](./Model2.MD)
+
+# SS2 PART C - Performance
+- [Model 1 Performance](./Model1Performance.MD)
