@@ -43,5 +43,6 @@ I checked the distrubution of the target variable which was "y", which sees whet
 The data has a clear imbalance which more "no's"(88.7%) than "yes's"(11.3%). Its important for me to keep in mind for my modelling and evaluation process because it will influence choices like using "class_weighted=balanced" and rather focusing on F1 score and ROC-AUC instead of just accuarcy.
 
 ### 7. Saved the cleaned dataset
-After the process and steps taken abouve to clean the data, the cleaned data set was saved on "datasets/bank_cleaned.csv". This will be the file i use as input for the feature engineering notebook in my next step.  
+After the process and steps taken abouve to clean the data, the cleaned data set was saved on "datasets/bank_cleaned.csv". This will be the file i use as input for the feature engineering notebook in my next step. 
+
 
