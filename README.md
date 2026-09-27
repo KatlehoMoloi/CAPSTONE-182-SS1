@@ -37,3 +37,4 @@ Even though there is a clear fall in trial to paid conversion rate while the cos
 # SS2 PART C - Performance
 - [Model 1 Performance](./Model1Performance.MD)
 - [Model 2 Performance](./Model2Performance.MD)
+- [Comaprison](./Comparison.MD)
