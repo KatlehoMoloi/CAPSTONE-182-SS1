@@ -46,3 +46,5 @@ Even though there is a clear fall in trial to paid conversion rate while the cos
 # ss2 Part D- Recommendation Report
  - [SS2 PART D](./pdf_docs/SS2%20PARTD%20CAPSTONE182%20(1).pdf)
 
+# ss1 PART C Additiional Data request 
+- [SS1 PART C Additions](./SS1%20PART%20C%20Additions%20CAPSTONE182%20(1).pdf)
