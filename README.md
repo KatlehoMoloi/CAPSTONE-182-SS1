@@ -26,12 +26,12 @@ Even though there is a clear fall in trial to paid conversion rate while the cos
 |Dependency|My RAAIDD log being complete was reliant on my motivation and problem statement being done and clear.|
 |Dependency|Having a final report for the project will be dependent on a model being built and evelatated first since it will be based on results.|
  
- # ss2 Part A- Literature Review
+ # SS2 Part A- Literature Review
  - [SS2 PART A](./pdf_docs/SS2%20PARTA%20CAPSTONE182%20(1).pdf)
 
 
 
-# ss2 PART B - Modelling
+# SS2 PART B - Modelling
 
 - [Preprocessing](./Preprocessing.MD)
 - [Feature Engineering](./FeatureEngineering.MD)
@@ -43,8 +43,29 @@ Even though there is a clear fall in trial to paid conversion rate while the cos
 - [Model 2 Performance](./Model2Performance.MD)
 - [Comaparison](./Comparison.MD)
 
-# ss2 Part D- Recommendation Report
+# SS2 Part D- Recommendation Report
  - [SS2 PART D](./pdf_docs/SS2%20PARTD%20CAPSTONE182%20(1).pdf)
 
-# ss1 PART C Additiional Data request 
+# SS1 PART C Additiional Data request 
 - [SS1 PART C Additions](./SS1%20PART%20C%20Additions%20CAPSTONE182%20(1).pdf)
+
+# SS3 Part B - Application to Client Data
+STADIOchoice's free-trial to paid conversion for STADIOstream has fallen from 41% to 33% in two years, while the cost of acquiring a subscriber has risen from R240 to R355. This part applies my final SS2 method, a Random Forest classifier, to the full STADIOchoice data extract to test whether trial-period behaviour, combined with billing and customer data, can predict which trial users will convert. I cleaned the data, checked for leakage(removing the post conversion sessions), put one row per account and made a 70/15/15 split and tuned the model by using max_depth=5 in trying to prvent overfitting.
+
+- [Notebook: SS3_PartB.ipynb](./SS3_PartB.ipynb)
+- [Results](./results/)
+- [Saved model](./models/)
+
+** How to run:**
+Needs Python 3 with `pandas`, `numpy`, `scikit-learn`, `matplotlib` and `joblib` (install with `pip install pandas numpy scikit-learn matplotlib joblib`). Open `SS3_PartB.ipynb`, choose **Kernel then --> Restart** then **Run All**
+
+**Results on the unseen test set**
+
+| Set | Accuracy | F1 score | ROC AUC |
+|---|---|---|---|
+| Train | 0.657 | 0.625 | 0.719 |
+| Validation | 0.633 | 0.589 | 0.684 |
+| Test | 0.659 | 0.622 | 0.707 |
+
+# SS3 Part C - Video Presentation
+- [Video presentation](https://stadiomultiversity-my.sharepoint.com/personal/26303337_stadio_ac_za/_layouts/15/stream.aspx?id=%2Fpersonal%2F26303337%5Fstadio%5Fac%5Fza%2FDocuments%2FCAP182%20SS3%2FSTADIOchoice%5FPresentationKM%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E66080279%2Da094%2D45b1%2Db002%2D2f4e525058fa )
